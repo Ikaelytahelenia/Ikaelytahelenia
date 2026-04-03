@@ -1,3 +1,4 @@
+
 Ika Elyta Helenia
 Sarjana Teknik Informatika
 Full-Stack Developer | Data Enthusiast | Problem Solver
@@ -130,4 +131,5 @@ Best Project Award Capstone Project 2024
 Membangun E-Commerce Scalable dengan MERN Stack
 Machine Learning untuk Bisnis: Panduan Praktis
 © 2024 Ika Elyta Helenia. Dibuat dengan ❤️ menggunakan Markdown
+
 
