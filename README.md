@@ -1,10 +1,12 @@
-Ika Elyta Helenia
+<h1>Ika Elyta Helenia</h1>
+<p>Web Designer | Full-Stack Developer | Data Enthusiast | Problem Solver
+</p>
+
 
 
 (Ganti dengan foto profesional Anda)
 
 
-Web Designer | Full-Stack Developer | Data Enthusiast | Problem Solver
 
 🚀 PROFILE SUMMARY
 
