@@ -47,8 +47,7 @@ LinkedIn: linkedin.com/in/ikaelytahelenia
 
 
 
-GitHub: github.com/ikaelytahelenia/portofolio
-
+GitHub: https://ikaelytahelenia.github.io/PORTOFOLIO/
 
 
 Phone: +62 857-8073-0268
