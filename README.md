@@ -44,7 +44,8 @@ Email: samathapekalongan2020@gmail.com
 
 
 
-LinkedIn: linkedin.com/in/ikaelytahelenia
+LinkedIn: https://www.linkedin.com/in/ika-elyta-helenia-aa263a400/
+
 
 
 
