@@ -33,7 +33,30 @@ Program Studi Teknik Informatika Fakultas Teknologi Informasi
 Universitas Stikubank Semarang
 2007 - 2011
 IPK: 3.23 (Sangat memuaskan)
-Skripsi: "Rancang Bangun Sistem Informasi PT ARINA BAYUSWAKARSA Berbasis Web"
+Skripsi: "Project Case Study : Integrated Business Management System
+Client: PT Arina Bayuswakarsa Pekalongan"
+1. The Challenge (The Problem)
+PT Arina Bayuswakarsa menghadapi kendala dalam pengelolaan data operasional (seperti manajemen proyek, inventaris, atau penggajian) yang masih bersifat konvensional/manual. Hal ini menyebabkan risiko kehilangan data, lambatnya pencarian informasi, dan kesulitan bagi manajemen untuk mengambil keputusan cepat berdasarkan data yang ada.
+2. The Solution (The Full-Stack Approach)
+Saya merancang dan membangun sistem informasi berbasis web yang terintegrasi (End-to-End).
+Front-End: Membangun antarmuka yang intuitif menggunakan Bootstrap/Tailwind CSS agar staf lapangan hingga manajer dapat menggunakan sistem dengan mudah (Web Design focus).
+Back-End: Mengembangkan logika server yang aman menggunakan PHP (Laravel/CodeIgniter) atau Node.js untuk memastikan integritas data.
+Database: Arsitektur database yang terstruktur menggunakan MySQL/PostgreSQL untuk menangani ribuan entri data secara cepat.
+3. Data Enthusiast & Problem Solver Features
+Reporting Module: Menyediakan fitur ekspor laporan otomatis (PDF/Excel) yang akurat.
+Data Visualization: Implementasi grafik tren (misal: pengeluaran proyek atau progres pekerjaan) untuk membantu direksi melihat performa perusahaan secara visual.
+Security: Menerapkan sistem Role-Based Access Control (RBAC) agar data sensitif hanya bisa diakses oleh pihak berwenang.
+4. Tech Stack
+Languange: PHP / JavaScript
+Framework: Laravel (Back-end), React/Vue (Optional)
+Tools: Git, Composer, XAMPP/Docker
+Database: MySQL
+5. The Impact
+Efisiensi Waktu: Memangkas waktu pengolahan data administrasi hingga 60% dibandingkan metode manual.
+Akurasi Data: Menghilangkan risiko duplikasi data dan kesalahan input manusia (human error).
+Decision Support: Membantu manajemen mengambil keputusan berbasis data nyata (bukan asumsi).
+
+
 
 💼 Pengalaman Kerja
 Kospin Jasa Pekalongan
