@@ -3,7 +3,8 @@
 </p>
 
 
-(Ganti dengan foto profesional Anda)
+![ikaelyta](https://github.com/user-attachments/assets/91015e9b-d6c1-446b-9804-8d8c41da3018)
+
 
 
 
