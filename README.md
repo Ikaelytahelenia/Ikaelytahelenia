@@ -13,7 +13,7 @@
 
 
 
-"Seorang lulusan Teknik Informatika yang menjembatani celah antara desain estetis, fungsionalitas sistem yang kompleks, dan wawasan berbasis data. Sebagai seorang Problem Solver, fokus saya adalah mengubah proses manual yang rumit menjadi solusi digital yang efisien dan skalabel. Saya tidak hanya menulis kode; saya membangun alat untuk pertumbuhan bisnis.
+"Seorang lulusan Teknik Informatika yang menjembatani celah antara desain estetis, fungsionalitas sistem yang kompleks, dan wawasan berbasis data. Sebagai seorang Problem Solver, fokus saya adalah mengubah proses manual yang rumit menjadi solusi digital yang efisien dan skalabel. Saya tidak hanya menulis kode, saya membangun alat untuk pertumbuhan bisnis.
 Lulus sebagai Sarjana Teknik Informatika, saya tidak hanya menulis kode, tapi saya menyelesaikan masalah bisnis. Saya percaya bahwa setiap baris kode harus memberikan nilai tambah, baik itu melalui desain yang memudahkan pengguna atau algoritma yang mengefisiensi kerja perusahaan. Turning Complex Data into Seamless Digital Experiences. I am a Full-Stack Developer who builds with a designer's eye and a data scientist's mind. Specializing in scalable web applications and data-driven insights."
 
 
@@ -24,13 +24,38 @@ Lulus sebagai Sarjana Teknik Informatika, saya tidak hanya menulis kode, tapi sa
 
 
 Front-End & Design: React.js, Tailwind CSS, Figma (UI/UX), Framer Motion (Animations).
+
+
+
+
 Back-End & Database: Node.js / Laravel, RESTful API, MySQL, PostgreSQL.
+
+
+
 Data & Analytics: Python (Pandas/NumPy), SQL Query Optimization, Data Visualization.
+
+
+
 Workflow: Git/GitHub, Docker, Agile/Scrum.
+
+
+
 Web Design: Figma, Adobe XD, Tailwind CSS, Framer Motion.
+
+
+
 Full-Stack Development: React.js/Next.js, Node.js, PostgreSQL, Docker.
+
+
+
 Data Science: Python (Pandas, Scikit-learn), Tableau/PowerBI, SQL.
+
+
+
 Tools: Git, AWS/Vercel, Agile Methodology.
+
+
+
 
 📧 LET'S CONNECT
 
